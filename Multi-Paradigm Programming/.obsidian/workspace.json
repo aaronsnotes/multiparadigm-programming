@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "da78127a3125e5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c94556484c34d7b",
+        "type": "tabs",
+        "dimension": 68.2122905027933,
+        "children": [
+          {
+            "id": "da6823e8f86a00f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b0e95da94bae7ee",
+        "type": "tabs",
+        "dimension": 31.787709497206706,
+        "children": [
+          {
+            "id": "f874d8d4857a2100",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c33fc96b9676911",
+    "type": "split",
+    "children": [
+      {
+        "id": "e402e20f6abe2f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9a41bfef474cd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b24e941e6cd56d46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88e52721d904c69e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5026054382324
+  },
+  "right": {
+    "id": "a47bad11f1a1335d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a483ae0a2909b41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f6203f18eae291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 2/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "71ccab0a8909e77c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 2/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "baa449b22fae34da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "691c7b07da2d95fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 2/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "b4f99cc2ad9c323e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b4f99cc2ad9c323e",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "Week 8/1. Functions in C++.md",
+    "Week 8/Week 8 - Object Oriented Programming in C++.md",
+    "Week 7/Week 7 - Getting Started with C++.md",
+    "Index - Multi-Paradigm Programming.md",
+    "Week 7/3. Basic language features (part 2).md",
+    "Week 8",
+    "Week 7/1. Our first C++ program.md",
+    "Week 7/2. Basic language features (part 1).md",
+    "Week 5/Week 5 - Time Complexity and File I-O.md",
+    "Week 5/1. FILE I-O in C.md",
+    "Week 7",
+    "Week 2/Week 2 - Structs, Pointers, and Memory Allocation.md",
+    "Week 2/Untitled.md",
+    "Week 5/3. From C into C++.md",
+    "Week 5/2. Time Complexity (Big 'O').md",
+    "Week 1/Week 1 - Intro and first program.md",
+    "Week 1/4. Basic C language features.md",
+    "Week 1/3. User input & output.md",
+    "Week 1/2. Errors, commenting, and naming conventions.md",
+    "Week 1/1. Creating, building, and running your first C program.md",
+    "Week 1",
+    "Week 2",
+    "Week 3",
+    "Week 4",
+    "Week 5"
+  ]
+}

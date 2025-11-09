@@ -1,0 +1,18 @@
+## Index
+- [[Week 1 - Intro and first program|Week 1]]
+	- [[1. Creating, building, and running your first C program]]
+	- [[2. Errors, commenting, and naming conventions]]
+	- [[3. User input & output]]
+	- [[4. Basic C language features]]
+- [[Week 2 - Structs, Pointers, and Memory Allocation|Week 2]]
+	- [[Untitled]]
+- [[Week 5 - Time Complexity and File I-O|Week 5]]
+	- [[1. FILE I-O in C]]
+	- [[2. Time Complexity (Big 'O')]]
+	- [[3. From C into C++]]
+- [[Week 7 - Getting Started with C++|Week 7]]
+	- [[1. Our first C++ program]]
+	- [[2. Basic language features (part 1)]]
+	- [[3. Basic language features (part 2)]]
+- [[Week 8 - Object Oriented Programming in C++|Week 8]]
+	- 
