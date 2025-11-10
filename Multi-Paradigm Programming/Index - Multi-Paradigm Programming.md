@@ -5,7 +5,7 @@
 	- [[3. User input & output]]
 	- [[4. Basic C language features]]
 - [[Week 2 - Structs, Pointers, and Memory Allocation|Week 2]]
-	- [[Untitled]]
+
 - [[Week 5 - Time Complexity and File I-O|Week 5]]
 	- [[1. FILE I-O in C]]
 	- [[2. Time Complexity (Big 'O')]]

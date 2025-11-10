@@ -6,7 +6,6 @@
       {
         "id": "1b0e95da94bae7ee",
         "type": "tabs",
-        "dimension": 64.6694214876033,
         "children": [
           {
             "id": "cc5fa5ff76920fc6",
@@ -27,7 +26,6 @@
       {
         "id": "84d905c7aae91a9c",
         "type": "tabs",
-        "dimension": 35.33057851239669,
         "children": [
           {
             "id": "f874d8d4857a2100",
@@ -98,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 263.5026054382324
   },
   "right": {
     "id": "a47bad11f1a1335d",
@@ -133,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Untitled.md",
+                "file": "Week 8/3. Object-Oriented Programming Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 3. Object-Oriented Programming Concepts"
             }
           },
           {
@@ -190,23 +188,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "cc5fa5ff76920fc6",
+  "active": "b4f99cc2ad9c323e",
   "lastOpenFiles": [
-    "Week 8/2. Classes and Objects.md",
-    "Week 8/3. Object-Oriented Programming Concepts.md",
-    "Week 8/Week 8 - Object Oriented Programming in C++.md",
+    "assets/Screenshot 2025-11-10 at 12.18.59.png",
+    "assets",
+    "Week 2/Week 2 - Structs, Pointers, and Memory Allocation.md",
+    "Untitled.md",
     "Index - Multi-Paradigm Programming.md",
+    "Week 8/3. Object-Oriented Programming Concepts.md",
+    "Week 2/Untitled.md",
+    "Week 8/2. Classes and Objects.md",
     "Week 8/1. Functions in C++.md",
+    "Week 8/Week 8 - Object Oriented Programming in C++.md",
     "Untitled 1.base",
     "Untitled.base",
     "Week 7/Week 7 - Getting Started with C++.md",
@@ -217,8 +220,6 @@
     "Week 5/Week 5 - Time Complexity and File I-O.md",
     "Week 5/1. FILE I-O in C.md",
     "Week 7",
-    "Week 2/Week 2 - Structs, Pointers, and Memory Allocation.md",
-    "Week 2/Untitled.md",
     "Week 5/3. From C into C++.md",
     "Week 5/2. Time Complexity (Big 'O').md",
     "Week 1/Week 1 - Intro and first program.md",
