@@ -15,4 +15,5 @@
 	- [[2. Basic language features (part 1)]]
 	- [[3. Basic language features (part 2)]]
 - [[Week 8 - Object Oriented Programming in C++|Week 8]]
-	- 
+	- [[1. Functions in C++]]
+	- [[2. Classes and Objects]]
