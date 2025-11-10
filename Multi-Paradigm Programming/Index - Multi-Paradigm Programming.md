@@ -17,3 +17,4 @@
 - [[Week 8 - Object Oriented Programming in C++|Week 8]]
 	- [[1. Functions in C++]]
 	- [[2. Classes and Objects]]
+	- [[3. Object-Oriented Programming Concepts]]
