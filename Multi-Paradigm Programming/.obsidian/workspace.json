@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 8/4. Operator Overloading.md",
+                "file": "Index - Multi-Paradigm Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Operator Overloading"
+              "title": "Index - Multi-Paradigm Programming"
             }
           }
         ]
@@ -202,9 +202,11 @@
   },
   "active": "cc5fa5ff76920fc6",
   "lastOpenFiles": [
+    "Week 9/Week 9 - Data Structures.md",
+    "Week 8/4. Operator Overloading.md",
+    "Week 9",
     "Index - Multi-Paradigm Programming.md",
     "Week 8/Week 8 - Object Oriented Programming in C++.md",
-    "Week 8/4. Operator Overloading.md",
     "Week 8/3. Object-Oriented Programming Concepts.md",
     "assets/Pasted image 20251110123641.png",
     "assets/Pasted image 20251110123328.png",
@@ -236,7 +238,6 @@
     "Week 1",
     "Week 2",
     "Week 3",
-    "Week 4",
-    "Week 5"
+    "Week 4"
   ]
 }
