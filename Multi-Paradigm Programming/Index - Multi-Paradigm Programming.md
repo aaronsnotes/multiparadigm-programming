@@ -20,4 +20,5 @@
 	- [[3. Object-Oriented Programming Concepts]]
 	- [[4. Operator Overloading]]
 - [[Week 9 - Data Structures|Week 9]]
-	- 
+	- [[1. Hash Tables]]
+	- [[2. C++ Pointers & Linked Lists]]
